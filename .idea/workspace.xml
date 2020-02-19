@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87e5a8ce-2390-415b-ac52-38cb26a38613" name="Default Changelist" comment="" />
+    <list default="true" id="87e5a8ce-2390-415b-ac52-38cb26a38613" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/entites/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/entites/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/entites/CalculatorOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/entites/CalculatorOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/initialization/CalculationInitializationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/initialization/CalculationInitializationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/result/CalculatorResultTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/result/CalculatorResultTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/initialization.CalculationInitializationTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/input.InputReaderTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/result.CalculatorResultTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/result.CalculatorResultTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/initialization.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/input.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-initialization.CalculationInitializationTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-input.InputReaderTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-result.CalculatorResultTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-result.CalculatorResultTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entites/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entites/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entites/CalculatorOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entites/CalculatorOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/initialization/CalculationInitializationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/initialization/CalculationInitializationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/result/CalculatorResultTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/result/CalculatorResultTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -44,21 +77,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/input/InputReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="8" />
-              <folding>
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/initialization/CalculationInitialization.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -70,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/initialization/CalculationInitializationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="76" column="71" selection-start-line="76" selection-start-column="71" selection-end-line="76" selection-end-column="71" />
+            <state relative-caret-position="142">
+              <caret line="87" column="70" lean-forward="true" selection-start-line="87" selection-start-column="70" selection-end-line="87" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,12 +101,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/entites/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/result/CalculatorResult.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1073#1074#0" expanded="true" />
                 <element signature="e#1100#1101#0" expanded="true" />
               </folding>
             </state>
@@ -110,8 +138,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/result/CalculatorResultTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="272">
+              <caret line="19" column="92" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,11 +150,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/entites/CalculatorOperations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="102">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding>
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -141,11 +169,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/executor/CalculationExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="425">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -171,6 +199,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -179,26 +210,28 @@
         <option value="$PROJECT_DIR$/src/main/java/input/InputReader.java" />
         <option value="$PROJECT_DIR$/src/test/java/input/InputReaderTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/executor/CalculationExecutor.java" />
-        <option value="$PROJECT_DIR$/src/test/java/result/CalculatorResultTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/result/CalculatorResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/initialization/CalculationInitialization.java" />
         <option value="$PROJECT_DIR$/src/main/java/entites/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/entites/CalculatorOperations.java" />
+        <option value="$PROJECT_DIR$/src/test/java/result/CalculatorResultTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/initialization/CalculationInitializationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/initialization/CalculationInitialization.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -229,16 +262,67 @@
               <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
               <item name="calculator-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="initialization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculator-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
@@ -272,13 +356,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Gradle.calculator-test [test]">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="calculator.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CalculationInitializationTest.fails_whenSecondOperandZeroValueProvided" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -319,12 +396,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="CalculatorResultTest.shouldReturnAdditionResultOfTwoNumbers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CalculatorResultTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;result.CalculatorResultTest.shouldReturnAdditionResultOfTwoNumbers&quot;" />
+        <option name="scriptParameters" value="--tests &quot;result.CalculatorResultTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorResultTest.shouldReturnSubtractionResultOfTwoNumbers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;result.CalculatorResultTest.shouldReturnSubtractionResultOfTwoNumbers&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -360,11 +457,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.CalculationInitializationTest.fails_whenSecondOperandZeroValueProvided" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.calculator-test [test]" />
         <item itemvalue="Gradle.CalculationInitializationTest.returnCalculationResultObiject_getCalculationResultMethodCalled" />
-        <item itemvalue="Gradle.CalculatorResultTest.shouldReturnAdditionResultOfTwoNumbers" />
+        <item itemvalue="Gradle.CalculatorResultTest" />
+        <item itemvalue="Gradle.CalculatorResultTest.shouldReturnSubtractionResultOfTwoNumbers" />
+        <item itemvalue="Gradle.CalculationInitializationTest.fails_whenSecondOperandZeroValueProvided" />
       </list>
     </recent_temporary>
   </component>
@@ -382,42 +479,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculationInitializationTest_returnCalculationResultObiject_getCalculationResultMethodCalled - 2020.02.18 at 21h 34m 58s.xml">
+    <history-entry file="CalculatorResultTest - 2020.02.19 at 13h 52m 49s.xml">
+      <configuration name="CalculatorResultTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CalculatorResultTest - 2020.02.19 at 13h 53m 12s.xml">
+      <configuration name="CalculatorResultTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CalculatorResultTest - 2020.02.19 at 13h 54m 20s.xml">
+      <configuration name="CalculatorResultTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CalculatorResultTest_shouldReturnSubtractionResultOfTwoNumbers - 2020.02.19 at 16h 09m 36s.xml">
+      <configuration name="CalculatorResultTest.shouldReturnSubtractionResultOfTwoNumbers" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CalculatorResultTest_shouldReturnSubtractionResultOfTwoNumbers - 2020.02.19 at 16h 18m 25s.xml">
+      <configuration name="CalculatorResultTest.shouldReturnSubtractionResultOfTwoNumbers" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CalculatorResultTest_shouldReturnSubtractionResultOfTwoNumbers - 2020.02.19 at 16h 20m 37s.xml">
+      <configuration name="CalculatorResultTest.shouldReturnSubtractionResultOfTwoNumbers" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CalculatorResultTest_shouldReturnSubtractionResultOfTwoNumbers - 2020.02.19 at 20h 29m 02s.xml">
+      <configuration name="CalculatorResultTest.shouldReturnSubtractionResultOfTwoNumbers" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CalculatorResultTest - 2020.02.19 at 20h 30m 55s.xml">
+      <configuration name="CalculatorResultTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="CalculationInitializationTest_returnCalculationResultObiject_getCalculationResultMethodCalled - 2020.02.19 at 20h 32m 17s.xml">
       <configuration name="CalculationInitializationTest.returnCalculationResultObiject_getCalculationResultMethodCalled" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="CalculatorResultTest_shouldReturnAdditionResultOfTwoNumbers - 2020.02.18 at 21h 35m 58s.xml">
-      <configuration name="CalculatorResultTest.shouldReturnAdditionResultOfTwoNumbers" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="CalculationInitializationTest_returnCalculationResultObiject_getCalculationResultMethodCalled - 2020.02.18 at 21h 36m 11s.xml">
-      <configuration name="CalculationInitializationTest.returnCalculationResultObiject_getCalculationResultMethodCalled" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="CalculationInitializationTest_returnCalculationResultObiject_getCalculationResultMethodCalled - 2020.02.18 at 21h 36m 24s.xml">
-      <configuration name="CalculationInitializationTest.returnCalculationResultObiject_getCalculationResultMethodCalled" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="CalculationInitializationTest_returnCalculationResultObiject_getCalculationResultMethodCalled - 2020.02.18 at 21h 36m 52s.xml">
-      <configuration name="CalculationInitializationTest.returnCalculationResultObiject_getCalculationResultMethodCalled" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="calculator-test_[test] - 2020.02.18 at 21h 39m 04s.xml">
-      <configuration name="calculator-test [test]" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="calculator-test_[test] - 2020.02.18 at 21h 42m 43s.xml">
-      <configuration name="calculator-test [test]" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="CalculationInitializationTest_fails_whenSecondOperandZeroValueProvided - 2020.02.18 at 21h 44m 12s.xml">
-      <configuration name="CalculationInitializationTest.fails_whenSecondOperandZeroValueProvided" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="CalculationInitializationTest_fails_whenSecondOperandZeroValueProvided - 2020.02.18 at 21h 45m 07s.xml">
-      <configuration name="CalculationInitializationTest.fails_whenSecondOperandZeroValueProvided" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="calculator-test_[test] - 2020.02.18 at 21h 48m 37s.xml">
+    <history-entry file="calculator-test_[test] - 2020.02.19 at 20h 32m 30s.xml">
       <configuration name="calculator-test [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27155825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,7 +523,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32733223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,17 +554,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entites/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-          <folding>
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#903#904#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/input/InputReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -491,22 +577,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/initialization/CalculationInitializationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="76" column="71" selection-start-line="76" selection-start-column="71" selection-end-line="76" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/result/CalculatorResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="true" />
             <element signature="e#1100#1101#0" expanded="true" />
           </folding>
         </state>
@@ -522,31 +599,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/result/CalculatorResultTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entites/CalculatorOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding>
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exceptions/InvalidInputException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executor/CalculationExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -557,10 +623,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/executor/CalculationExecutor.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/result/CalculatorResultTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="272">
+          <caret line="19" column="92" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entites/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entites/CalculatorOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/initialization/CalculationInitializationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="87" column="70" lean-forward="true" selection-start-line="87" selection-start-column="70" selection-end-line="87" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

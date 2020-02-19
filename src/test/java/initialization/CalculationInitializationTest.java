@@ -3,8 +3,6 @@ package initialization;
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.when;
 
-import entites.Calculator;
-import entites.CalculatorOperations;
 import exceptions.InvalidInputException;
 import input.InputReader;
 import org.junit.Before;
@@ -87,9 +85,9 @@ public class CalculationInitializationTest {
     when(inputReader.readInput("Enter second operand: ")).thenReturn("2.1");
 
     CalculatorResult calculatorResult = calculationInitialization.getCalculationResult();
-
-    assertEquals(calculatorResult.getCalculator(), new Calculator(3.1, 2.1));
-    assertEquals(calculatorResult.getCalculatorOperations(), new CalculatorOperations("+"));
+    assertEquals(calculatorResult.getCalculator().getOperand1(), Double.valueOf(3.1));
+    assertEquals(calculatorResult.getCalculator().getOperand2(), new Double(2.1));
+    assertEquals(calculatorResult.getCalculatorOperations().getOperation(), "+");
 
   }
 

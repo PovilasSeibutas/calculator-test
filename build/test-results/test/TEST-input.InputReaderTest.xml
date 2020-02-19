@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="input.InputReaderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-18T19:48:36" hostname="DESKTOP-76GHOCE" time="0.019">
+<testsuite name="input.InputReaderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-19T18:32:30" hostname="DESKTOP-76GHOCE" time="0.066">
   <properties/>
-  <testcase name="shouldReturnInputStringUsingReadInput" classname="input.InputReaderTest" time="0.019"/>
+  <testcase name="shouldReturnInputStringUsingReadInput" classname="input.InputReaderTest" time="0.066"/>
   <system-out><![CDATA[input
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>

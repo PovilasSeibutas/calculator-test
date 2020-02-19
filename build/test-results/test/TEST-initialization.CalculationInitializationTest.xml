@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="initialization.CalculationInitializationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-02-18T19:48:36" hostname="DESKTOP-76GHOCE" time="0.128">
+<testsuite name="initialization.CalculationInitializationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-02-19T18:32:29" hostname="DESKTOP-76GHOCE" time="0.154">
   <properties/>
-  <testcase name="fails_whenSecondOperandZeroValueProvided" classname="initialization.CalculationInitializationTest" time="0.121"/>
-  <testcase name="returnCalculationResultObiject_getCalculationResultMethodCalled" classname="initialization.CalculationInitializationTest" time="0.003"/>
+  <testcase name="fails_whenSecondOperandZeroValueProvided" classname="initialization.CalculationInitializationTest" time="0.145"/>
+  <testcase name="returnCalculationResultObiject_getCalculationResultMethodCalled" classname="initialization.CalculationInitializationTest" time="0.004"/>
   <testcase name="fails_whenInvalidSecondOperandProvided" classname="initialization.CalculationInitializationTest" time="0.001"/>
-  <testcase name="fails_whenInvalidOperationProvided" classname="initialization.CalculationInitializationTest" time="0.001"/>
+  <testcase name="fails_whenInvalidOperationProvided" classname="initialization.CalculationInitializationTest" time="0.0"/>
   <testcase name="fails_whenInvalidFirstOperandProvided" classname="initialization.CalculationInitializationTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
