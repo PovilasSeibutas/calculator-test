@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="result.CalculatorResultTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-02-18T19:48:36" hostname="DESKTOP-76GHOCE" time="0.015">
+  <properties/>
+  <testcase name="shouldReturnDevisionResultOfTwoNumbers" classname="result.CalculatorResultTest" time="0.01"/>
+  <testcase name="shouldReturnAdditionResultOfTwoNumbers" classname="result.CalculatorResultTest" time="0.001"/>
+  <testcase name="shouldReturnSubtractionResultOfTwoNumbers" classname="result.CalculatorResultTest" time="0.001"/>
+  <testcase name="shouldReturnMultiplicationResultOfTwoNumbers" classname="result.CalculatorResultTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
